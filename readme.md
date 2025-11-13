@@ -1,5 +1,9 @@
 git clone https://github.com/open-mmlab/mmdetection.git
 
+1. install anaconda
+2. buka anaconda
+3. ikuti step dibawah ini
+4. masuk ke train.ipynb, di kanan atas ada pilihan kernel cari roti_env
 
 ```bash
 # 1. Buat environment
